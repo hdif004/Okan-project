@@ -8,6 +8,11 @@ h1, h3, h4, li, .avis-content {
     font-family: 'Cormorant Garamond', serif;
 }
 
+body {
+  background-color: #3F5060;
+  color: white;
+}
+
 @-webkit-keyframes text-focus-in {
     0% {
       -webkit-filter: blur(12px);
