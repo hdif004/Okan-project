@@ -4,13 +4,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&display=swap');
 
+
+@font-face {
+  font-family: 'Lovelo';
+  src: url('../fonts/Lovelo\ Black.otf')format('opentype');
+}
+
 h1, h3, h4, li, .avis-content {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Lovelo';
 }
 
 body {
   background-color: #3F5060;
-  color: #E0BF73;
+  color: #dedede;
 }
 
 p {
